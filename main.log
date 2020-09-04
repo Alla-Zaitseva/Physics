@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.13)  4 SEP 2020 23:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.13)  4 SEP 2020 23:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -787,7 +787,7 @@ e
 <images/logo_LTC.png, id=45, 1204.5pt x 1204.5pt>
 File: images/logo_LTC.png Graphic file (type png)
 <use images/logo_LTC.png>
-Package pdftex.def Info: images/logo_LTC.png  used on input line 43.
+Package pdftex.def Info: images/logo_LTC.png  used on input line 42.
 (pdftex.def)             Requested size: 193.47578pt x 193.47748pt.
  [1
 
@@ -835,46 +835,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 [2
 
 ] [3]
-<images/1_1.jpg, id=102, 347.2975pt x 278.03876pt>
+<images/1_1.jpg, id=101, 347.2975pt x 278.03876pt>
 File: images/1_1.jpg Graphic file (type jpg)
 <use images/1_1.jpg>
 Package pdftex.def Info: images/1_1.jpg  used on input line 65.
 (pdftex.def)             Requested size: 193.47578pt x 154.89879pt.
-<images/1_2.jpg, id=103, 360.34625pt x 275.0275pt>
+<images/1_2.jpg, id=102, 360.34625pt x 275.0275pt>
 File: images/1_2.jpg Graphic file (type jpg)
 <use images/1_2.jpg>
 Package pdftex.def Info: images/1_2.jpg  used on input line 80.
 (pdftex.def)             Requested size: 193.47578pt x 147.66492pt.
  [4 <./images/1_1.jpg> <./images/1_2.jpg>]
-<images/1_3.jpg, id=114, 463.7325pt x 343.2825pt>
+<images/1_3.jpg, id=113, 463.7325pt x 343.2825pt>
 File: images/1_3.jpg Graphic file (type jpg)
 <use images/1_3.jpg>
 Package pdftex.def Info: images/1_3.jpg  used on input line 97.
 (pdftex.def)             Requested size: 193.47578pt x 143.22433pt.
-<images/1_4.jpg, id=115, 555.07375pt x 239.89626pt>
+<images/1_4.jpg, id=114, 555.07375pt x 239.89626pt>
 File: images/1_4.jpg Graphic file (type jpg)
 <use images/1_4.jpg>
 Package pdftex.def Info: images/1_4.jpg  used on input line 120.
 (pdftex.def)             Requested size: 193.47578pt x 83.61719pt.
-<images/1_5.jpg, id=116, 406.51875pt x 435.6275pt>
+<images/1_5.jpg, id=115, 406.51875pt x 435.6275pt>
 File: images/1_5.jpg Graphic file (type jpg)
 <use images/1_5.jpg>
 Package pdftex.def Info: images/1_5.jpg  used on input line 130.
 (pdftex.def)             Requested size: 193.47578pt x 207.33069pt.
-<images/1_6.jpg, id=117, 437.635pt x 303.1325pt>
+<images/1_6.jpg, id=116, 437.635pt x 303.1325pt>
 File: images/1_6.jpg Graphic file (type jpg)
 <use images/1_6.jpg>
 Package pdftex.def Info: images/1_6.jpg  used on input line 142.
 (pdftex.def)             Requested size: 193.47578pt x 134.01239pt.
  [5 <./images/1_3.jpg>]
 [6 <./images/1_4.jpg> <./images/1_5.jpg> <./images/1_6.jpg>]
-<images/1_7.jpg, id=135, 568.1225pt x 353.32pt>
+<images/1_7.jpg, id=134, 568.1225pt x 353.32pt>
 File: images/1_7.jpg Graphic file (type jpg)
 <use images/1_7.jpg>
 Package pdftex.def Info: images/1_7.jpg  used on input line 173.
 (pdftex.def)             Requested size: 193.47578pt x 120.32129pt.
  [7 <./images/1_7.jpg>]
-<images/1_8.jpg, id=145, 617.30624pt x 295.1025pt>
+<images/1_8.jpg, id=144, 617.30624pt x 295.1025pt>
 File: images/1_8.jpg Graphic file (type jpg)
 <use images/1_8.jpg>
 Package pdftex.def Info: images/1_8.jpg  used on input line 221.
@@ -901,10 +901,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 19.
  ) 
 Here is how much of TeX's memory you used:
- 12380 strings out of 492616
- 170256 string characters out of 6129481
+ 12379 strings out of 492616
+ 170244 string characters out of 6129481
  278873 words of memory out of 5000000
- 16024 multiletter control sequences out of 15000+600000
+ 16023 multiletter control sequences out of 15000+600000
  18479 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  31i,8n,38p,1057b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -923,10 +923,10 @@ ve/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive
 /2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2
 019/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/201
 9/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (10 pages, 410820 bytes).
+Output written on main.pdf (10 pages, 409460 bytes).
 PDF statistics:
- 218 PDF objects out of 1000 (max. 8388607)
- 175 compressed objects within 2 object streams
+ 217 PDF objects out of 1000 (max. 8388607)
+ 174 compressed objects within 2 object streams
  41 named destinations out of 1000 (max. 500000)
  146 words of extra memory for PDF output out of 10000 (max. 10000000)
 
